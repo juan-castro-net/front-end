@@ -1,0 +1,72 @@
+[
+  {
+    "id": "people",
+    "text": "Build 2",
+    "icon": "People",
+    "children": [
+      {
+        "id": "authentication",
+        "text": "Authentication",
+        "icon": "People",
+        "active": true
+      },
+      {
+        "id": "database",
+        "text": "Database",
+        "icon": "DnsRounded"
+      },
+      {
+        "id": "storage",
+        "text": "Storage",
+        "icon": "PermMediaOutlined"
+      },
+      {
+        "id": "hosting",
+        "text": "Hosting",
+        "icon": "Public"
+      },
+      {
+        "id": "functions",
+        "text": "Functions",
+        "icon": "SettingsEthernet"
+      },
+      {
+        "id": "machine_learning",
+        "text": "Machine learning",
+        "icon": "SettingsInputComponent"
+      }
+    ]
+  },
+  {
+    "id": "quality",
+    "text": "Quality",
+    "icon": "People",
+    "children": [
+      {
+        "id": "analytics",
+        "text": "Analytics",
+        "icon": "Settings"
+      },
+      {
+        "id": "performance",
+        "text": "Performance",
+        "icon": "Timer"
+      },
+      {
+        "id": "test_lab",
+        "text": "Test Lab",
+        "icon": "PhonelinkSetup"
+      },
+      {
+        "id": "pais",
+        "text": "Pais",
+        "icon": "Timer"
+      },
+      {
+        "id": "departamento",
+        "text": "Departamento",
+        "icon": "PhonelinkSetup"
+      }
+    ]
+  }
+]
